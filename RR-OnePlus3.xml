@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>BeanStalk-6.18 (CM)</RomName>
-  <VersionName>BeanStalk-6.18-20160620-d855</VersionName>
-  <VersionNumber type="integer">20160620</VersionNumber>
+  <RomName>Not needed (CM)</RomName>
+  <VersionName>Not needed</VersionName>
+  <VersionNumber type="integer">Not needed</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl>https://www.androidfilehost.com/?fid=24591020540822271</HttpUrl>
+  <HttpUrl>Not needed</HttpUrl>
   <Android>6.0.1</Android>
   <CheckMD5></CheckMD5>
   <FileSize type="integer"></FileSize>
   <Developer>Taker18</Developer>
-  <WebsiteURL>http://forum.xda-developers.com/lg-g3/development/rom-t3373631</WebsiteURL>
+  <WebsiteURL>Not needed</WebsiteURL>
   <DonateURL>https://paypal.me/Taker18</DonateURL>
   <Changelog>### Changelog 20150730
 * 
