@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>BeanStalk-6.18 (CM)</RomName>
+  <VersionName>BeanStalk-6.18-20160620-h815</VersionName>
+  <VersionNumber type="integer">20160620</VersionNumber>
+  <DirectUrl nil="true" />
+  <HttpUrl>https://www.androidfilehost.com/?fid=24659325368664323</HttpUrl>
+  <Android>6.0.1</Android>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Developer>Taker18</Developer>
+  <WebsiteURL>http://forum.xda-developers.com/g4/development/rom-t3356431</WebsiteURL>
+  <DonateURL>https://paypal.me/Taker18</DonateURL>
+  <Changelog>### Changelog 20150730
+* 
+* 
+* 
+*   
+  </Changelog>
+</ROM>
